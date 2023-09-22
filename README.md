@@ -1,6 +1,7 @@
 # ThesisResearchPaperCloud
 An analytical research paper on the history and possible future of cloud computing. Looking to answer the question of whether cloud computing's relevancy in modern-day society is set to increase or decrease in the future.
 
+
 Important topics to cover:
 
 Cloud computing is a difficult concept to understand. Explain it in a way that laypeople can get.
