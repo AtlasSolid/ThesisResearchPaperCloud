@@ -18,20 +18,27 @@ Update: working on structuring the outline of paper.
 Outline:
 
 Introduction, possibly outline goals?
+
 Explanation of Cloud computing
+
 History of cloud computing
 
 Transition into speculation about Future
 
 Interview with AWS/cloud company employees
+
 Interview with Corey Quinn if at all possible
 
 Transition from Corey's viewpoint into potential concerns about Future
+
 (if Corey is unavailable, dedicate section to LastWeekInAWS' viewpoints)
 
 Discuss articles showing the current issues with cloud computing
+
 Contrast with sources talking about the positives
 
 Synthesis
+
 Go through your thought process
+
 Logically develop a conclusion based on what you've previously covered
