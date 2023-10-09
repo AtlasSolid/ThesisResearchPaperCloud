@@ -23,11 +23,13 @@ Explanation of Cloud computing
 
 History of cloud computing
 
+
 Transition into speculation about Future
 
 Interview with AWS/cloud company employees
 
 Interview with Corey Quinn if at all possible
+
 
 Transition from Corey's viewpoint into potential concerns about Future
 
@@ -36,6 +38,7 @@ Transition from Corey's viewpoint into potential concerns about Future
 Discuss articles showing the current issues with cloud computing
 
 Contrast with sources talking about the positives
+
 
 Synthesis
 
